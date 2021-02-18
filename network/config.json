@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Each line connecting two points represents a shared subject heading.",
-    "colorLabel": url('../images/rainbow.png'),
+    "colorLabel": "Colored lines represent the most popular subject headings in the collection as a whole.",
     "nodeLabel": "Each point in the network is one book from the Rare Books Room. Their color corresponds to the collection they come from (green for Rare Books, blue for Special Collections, orange for Canon Law, and red for Incunabula). Their size indicate how many shared subject headings they have."
   },
   "features": {

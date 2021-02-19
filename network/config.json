@@ -3,9 +3,6 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "../images/legend.png",
-    "link": "",
-    "text": "Hannah Jones"
   },
   "text": {
     "more": "This graph uses network mapping to visually represent the topical relatedness of the rare books at the Dominican Theological Library. Each point in the network represents a single book, and each line connecting two points represents a subject heading shared by both books. Tightly clustered groups of points result when many books share all or most of their subject headings. Clusters that are far apart share no (or almost no) common subject headings. By visualizing the collections in this way, we can gain some insights into the interconnectedness of the various topics within the Rare Books Room.",
